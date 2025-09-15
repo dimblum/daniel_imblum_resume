@@ -1,0 +1,6 @@
+[submodule "myresume/themes/resume-a4"]
+	path = myresume/themes/resume-a4
+	url = https://gitlab.com/mertbakir/resume-a4.git
+[submodule "themes/resume-a4"]
+	path = themes/resume-a4
+	url = https://gitlab.com/mertbakir/resume-a4.git

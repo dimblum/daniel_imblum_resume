@@ -1,0 +1,62 @@
+about:
+  name: Dan Imblum
+  tagline: SR HR Systems Analyst
+  phone: "5204743990"
+  email: daniel.imblum@gmail.com
+  links:
+    - title: /in/dimblum
+      url: https://tr.linkedin.com/in/dimblum
+      icon: fab fa-linkedin
+  details: |
+    I am a Certified Data Analyst and HR Systems professional with over 7 years of experience optimizing HRIS platforms and building data-driven solutions.
+    I specialize in bridging HR operations with technology, using tools like Dayforce, ADP, and DOMO to improve efficiency, strengthen compliance, and deliver actionable insights.
+
+
+skills:
+- groupName: Technical Skills
+  list:
+    - Excel
+    - Google Sheets
+    - DOMO
+    - Power BI
+    - Tableau
+    - SQL
+    - Microsoft Access
+    - Outlook
+    - PowerPoint
+    - Word
+
+- groupName: HRIS / HCM Applications
+  list:
+    - ADP
+    - Ceridian Dayforce
+    - UKG Dimensions
+    - Kronos WFC
+    - Taleo
+    - WorkBright
+
+- groupName: Core Competencies
+  list:
+    - Data integrity validation
+    - Process optimization
+    - Agile methodologies
+    - Vendor management & contract negotiation
+    - Training & documentation
+    - Process modeling
+
+
+interests:
+  - Data Science
+  - AI Applications
+  - Optimization Problems
+
+languages:
+  - name: English
+    level: Native
+
+# This will use the default widget: "details-list"
+certificates:
+- title: "Project Management Professional (PMP) Certificate"
+  subtitle: Project Management Institute
+  date: "June 2023"
+
